@@ -11,18 +11,27 @@ body {
     
 }
 
-#arara {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+#araralogo:hover {
+    color: red;
 }
+
+#araralogo {
+    text-decoration: none;
+    border: solid black 1px;
+    border-radius: 20px;
+    padding: 7px;
+}
+
+#sec-tittle {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+
 
 @media screen and (max-width: 1024px) {
     #first-tittle {font-size: 50px;}
-    #arara {
-        width: 200px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
+
+
 }
