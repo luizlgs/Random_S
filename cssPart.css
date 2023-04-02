@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(185, 51, 10, 0.568);
+    background-color: rgba(151, 19, 19, 0.76);
     
 }
 #first-tittle {
@@ -27,13 +27,14 @@ body {
     text-align: center;
     font-family: 'Cinzel Decorative', cursive;
     display: block;
-    margin-top: 30%;
+    margin-top: 300px;
 }
 
 
 
 @media screen and (max-width: 1024px) {
     #first-tittle {font-size: 50px;}
+    #sec-tittle {margin-top: 700px;}
 
 
 }
