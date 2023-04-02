@@ -26,6 +26,8 @@ body {
     font-size: 20px;
     text-align: center;
     font-family: 'Cinzel Decorative', cursive;
+    display: block;
+    margin-top: 30%;
 }
 
 
