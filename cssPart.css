@@ -8,8 +8,21 @@ body {
     text-shadow: 0 0 3px rgb(0, 0, 0);
     text-align: center;
     font-size: 80px;
+    
+}
+
+#arara {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media screen and (max-width: 1024px) {
     #first-tittle {font-size: 50px;}
+    #arara {
+        width: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
